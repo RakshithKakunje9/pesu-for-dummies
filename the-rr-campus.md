@@ -18,7 +18,7 @@ The MRD Block, also called as Silver Jubilee Block, is the main administrative b
 The GJB Block, short for Golden Jubilee Block, is the biggest and the most conspicuous block in the campus. It is currently under construction, but many amenities in it are already functional.
 * **Jag's Nest (Assessment Centre):** This is the assessment centre with 20 rooms full of computers, for conducting the PESSAT examinations, ISAs and ESAs. It is usually peaceful in here, but only until the exams are over!
 * **GJB Canteen:** The GJB Canteen is a spacious cafeteria, with a large seating capacity and aesthetic design. It is usually very crowded on a normal day. Prices are affordable, and cuisine varies from North Indian, South Indian, Chinese, chats, mocktails and desserts in here.
-* **Cafe Coffee Day Express :** Do I need to explain what's this? You wanna grab a quick coffee? Then this is your place!
+* **Cafe Coffee Day Express:** Do I need to explain what's this? You wanna grab a quick coffee? Then this is your place!
 * **Two-storey Gym:** *content goes here*
 * **Basketball, Badminton and other courts:** Not yet functional, but are really breathtaking to see.
 
